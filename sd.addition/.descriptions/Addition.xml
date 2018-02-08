@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block
+    name="Addition" 
+    author="Soma Dsa" 
+    purpose="Addition" 
+    uuid="_Etws0As9EeiHzKYeuw1w7Q" 
+    status="under construction" 
+    type="system" 
+    >
+    <description>
+<![CDATA[A static interger value have been taken for a and b and we display addition of them, You can change alues of a and b going to the code.]]>
+    </description>
+</block>
